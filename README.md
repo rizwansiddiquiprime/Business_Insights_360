@@ -1,4 +1,4 @@
-![Finance View-1](https://github.com/user-attachments/assets/6a5ce147-b4b5-4902-8b36-3c99c73cd9fe)# Business Insights 360
+# Business Insights 360
 
 ## Project Overview
 
@@ -183,7 +183,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Finance View
 
-![Screenshot (46)](https://github.com/user-attachments/assets/d0d0a146-f088-4612-a631-59e9a722b4d3)
+![Finance View-1](https://github.com/user-attachments/assets/6a5ce147-b4b5-4902-8b36-3c99c73cd9fe)
 
 
 ## Sales View
