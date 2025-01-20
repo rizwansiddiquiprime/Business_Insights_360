@@ -6,8 +6,6 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link](https://www.novypro.com/project/atliq-hardware-business-insights-360)
-
 ## Tech stacks
 
 - SQL
@@ -36,12 +34,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - Setting up personal gateway to set up the auto refresh of data
 - PowerBi App creation
 - Collaboration, workspace, access permissions in PowerBi services
-- And more 😅
-
-## GitHub 
-
-- Uploading Large size files using GitHub LFS
-- Tracking the particular type of file extensions for LFS
+- And more 
 
 ## Business related terms
 
@@ -157,10 +150,11 @@ Fact table : It will have the data about the transactions
 
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
-- Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
+- Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-improve-your-models-performance/)
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+![Screenshot (45)](https://github.com/user-attachments/assets/35841b0a-c854-42a4-96be-7f7ed25870c5)
+
 
 ### Dashboard designing
 
@@ -181,7 +175,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
+
 
 ## Info Page
 
