@@ -183,7 +183,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Finance View
 
-
+https://drive.google.com/drive/my-drive
 
 ## Sales View
 
