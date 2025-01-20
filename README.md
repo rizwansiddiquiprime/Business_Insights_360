@@ -183,6 +183,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Finance View
 
+[Finance View PDF](https://github.com/rizwansiddiquiprime/Business_Insights_360/blob/b1351f070e94fccc1008a786ab48f93d6ff3f2f2/Resources/Finance%20View.pdf)
 
 
 ## Sales View
