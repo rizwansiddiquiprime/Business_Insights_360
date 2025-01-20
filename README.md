@@ -183,7 +183,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Finance View
 
-<iframe src="https://your-external-hosted-link.pdf" width="100%" height="600px"></iframe>
+![Uploading Finance View-1.png…]()
 
 
 ## Sales View
