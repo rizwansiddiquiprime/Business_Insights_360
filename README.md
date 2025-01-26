@@ -216,7 +216,7 @@ In Home view, all the views button will be available. User will land on specific
 ![Screenshot (56)](https://github.com/user-attachments/assets/e18ebc6d-f94d-4666-8560-50de4b8bbd3e)
 
 
-you can find the full report file here : https://drive.google.com/drive/my-drive
+you can find Live full report file here : https://app.powerbi.com/view?r=eyJrIjoiNzEyYjI3ZmYtNjc4ZS00ZTBjLWEzMzQtNzg0MTY0NzQ5OGE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
 ## Project Outcome
