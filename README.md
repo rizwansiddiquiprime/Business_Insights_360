@@ -173,6 +173,11 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
+## Home Page
+
+![Screenshot (55)](https://github.com/user-attachments/assets/1e19c553-7fa1-40c5-9173-2995cb71f35f)
+
+
 ## Info Page
 
 ![Screenshot (54)](https://github.com/user-attachments/assets/8ef5da55-5b96-4739-8adc-c9759f81e577)
@@ -205,6 +210,10 @@ In Home view, all the views button will be available. User will land on specific
 ## Products
 
 ![Screenshot (53)](https://github.com/user-attachments/assets/1aafff88-3c5c-4a18-99ee-f32e1f93987c)
+
+## Support
+
+
 
 
 you can find the full report file here : https://drive.google.com/drive/my-drive
