@@ -179,32 +179,32 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Finance View
 
-
-
+![Screenshot (48)](https://github.com/user-attachments/assets/e84a0043-4dfe-4904-a129-232ab784b757)
 
 ## Sales View
 
-
+![Screenshot (49)](https://github.com/user-attachments/assets/07023cb1-586d-4d36-9898-1d143e40c812)
 
 
 ## Marketing View
 
-
+![Screenshot (50)](https://github.com/user-attachments/assets/2be67d0f-a296-4fe1-b41c-25c3a024666f)
 
 
 ## Supply chain View
 
-
+![Screenshot (51)](https://github.com/user-attachments/assets/fb7e2d81-ba27-496e-bb8a-d2880da55bd5)
 
 
 ## Executive View
 
-
+![Screenshot (52)](https://github.com/user-attachments/assets/05a099d6-231d-4051-a16e-53d71a99861a)
 
 
 ## Products
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
+![Screenshot (53)](https://github.com/user-attachments/assets/1aafff88-3c5c-4a18-99ee-f32e1f93987c)
+
 
 you can find the full report file here : https://drive.google.com/drive/my-drive
 
