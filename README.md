@@ -175,6 +175,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Info Page
 
+![Screenshot (54)](https://github.com/user-attachments/assets/8ef5da55-5b96-4739-8adc-c9759f81e577)
 
 
 ## Finance View
