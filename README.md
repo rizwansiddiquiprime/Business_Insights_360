@@ -153,7 +153,8 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-improve-your-models-performance/)
 - In this project, we have followed Snowfall data modeling method.
 
-![Screenshot (45)](https://github.com/user-attachments/assets/35841b0a-c854-42a4-96be-7f7ed25870c5)
+![Screenshot (57)](https://github.com/user-attachments/assets/7ffece17-f0b1-44c6-a1f0-f2d1ca5759b4)
+
 
 
 ### Dashboard designing
